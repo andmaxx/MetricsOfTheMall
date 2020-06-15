@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
+	<Table uuid="443596a3-66d5-47fe-9a59-135a773e9602">
+		<InternalInfo>
+			<xr:GeneratedType name="ExternalDataSourceTableManager.ОМ_СчетчикиПосещаемости.dbo_CM_CrossZoneEnter" category="Manager">
+				<xr:TypeId>e75692bd-36ed-4b5d-92ac-22831b277b2c</xr:TypeId>
+				<xr:ValueId>77bb9962-93b2-463f-983e-87c4a4acda6c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExternalDataSourceTableObject.ОМ_СчетчикиПосещаемости.dbo_CM_CrossZoneEnter" category="Object">
+				<xr:TypeId>3b1d7fc5-550d-4e56-b42f-92d4ec6cc0e2</xr:TypeId>
+				<xr:ValueId>3bf4c748-743d-4303-b7b3-8a70bc6db3e4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExternalDataSourceTableRef.ОМ_СчетчикиПосещаемости.dbo_CM_CrossZoneEnter" category="Ref">
+				<xr:TypeId>a2ff6f7e-a2b6-4c87-879a-875fac570129</xr:TypeId>
+				<xr:ValueId>260d9977-46c7-4168-82d4-8a6e2465f6b4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExternalDataSourceTableList.ОМ_СчетчикиПосещаемости.dbo_CM_CrossZoneEnter" category="List">
+				<xr:TypeId>59d22383-f5b1-47ad-8057-9dca10864b8a</xr:TypeId>
+				<xr:ValueId>15410361-b1bf-4aac-9a02-25591db79121</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExternalDataSourceTableRecord.ОМ_СчетчикиПосещаемости.dbo_CM_CrossZoneEnter" category="Record">
+				<xr:TypeId>782cf87e-0354-4916-a923-6fca868b205e</xr:TypeId>
+				<xr:ValueId>342be256-81f2-4325-adda-be08518eeb14</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExternalDataSourceTableRecordSet.ОМ_СчетчикиПосещаемости.dbo_CM_CrossZoneEnter" category="RecordSet">
+				<xr:TypeId>017b24cf-d039-47f4-95c2-2c0d1095dbf0</xr:TypeId>
+				<xr:ValueId>4b323745-16f9-46ee-8fbf-6f019a0074af</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExternalDataSourceTableRecordKey.ОМ_СчетчикиПосещаемости.dbo_CM_CrossZoneEnter" category="RecordKey">
+				<xr:TypeId>2af77d14-f9d8-4ce8-b9b7-04af198fc81b</xr:TypeId>
+				<xr:ValueId>8bbd55f9-aee8-43e2-a4a5-c7fb45f54de8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExternalDataSourceTableRecordManager.ОМ_СчетчикиПосещаемости.dbo_CM_CrossZoneEnter" category="RecordManager">
+				<xr:TypeId>daaaf7c9-ebb1-4e5e-b4b3-80077b450d8b</xr:TypeId>
+				<xr:ValueId>624ddff8-0721-4b47-a150-7a1a52548fad</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>dbo_CM_CrossZoneEnter</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>310218f8-6294-4cf2-b7ae-ccf012ce4eb1</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Table>
+</MetaDataObject>

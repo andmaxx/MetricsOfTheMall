@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
+	<ConfigVersions>
+		<Metadata name="CommonCommand.Портал_ОткрытьФормуТекущаяПосещаемость" id="7bf5889a-6558-4183-9d2c-059dd34a3239" configVersion="4dd5539c1225e57cb26899a80bb2b50ef2810e32"/>
+		<Metadata name="CommonCommand.Портал_ОткрытьФормуТекущаяПосещаемость.CommandModule" id="7bf5889a-6558-4183-9d2c-059dd34a3239.2" configVersion="4869311d87e98ffe3e488d442b27a37824912723"/>
+		<Metadata name="CommonForm.Портал_ТекущаяПосещаемость" id="3cba628e-aaa1-440e-a3e8-df59a9d02e2a" configVersion="b50b006ea44fe9e68097f02a5d14a14c177d33d9"/>
+		<Metadata name="CommonForm.Портал_ТекущаяПосещаемость.Form" id="3cba628e-aaa1-440e-a3e8-df59a9d02e2a.0" configVersion="5f236151e434762c57be81cd88651cd9e6663658"/>
+		<Metadata name="CommonModule.Портал_СчетчикиПосещаемости" id="f4d59656-0f3e-4aaa-926f-ea328e825f6a" configVersion="fa4fde27468ea3ee5425ebfefaf0b065664e3efa"/>
+		<Metadata name="CommonModule.Портал_СчетчикиПосещаемости.Module" id="f4d59656-0f3e-4aaa-926f-ea328e825f6a.0" configVersion="fa909c57fecbb93f300359f4752f889c1bf3a0ff"/>
+		<Metadata name="CommonModule.Портал_СчетчикиПосещаемостиПовтИсп" id="60266b4f-3f0f-49d8-b27f-9f83fc193386" configVersion="4f04e83e4340246ba466d5a4c0bde2ac8f6030fa"/>
+		<Metadata name="CommonModule.Портал_СчетчикиПосещаемостиПовтИсп.Module" id="60266b4f-3f0f-49d8-b27f-9f83fc193386.0" configVersion="a19d303efea834c3ce09497e801fbca4480b1815"/>
+		<Metadata name="CommonTemplate.Портал_ТекущаяПосещаемость" id="1ff85762-2e6d-49a1-8523-5fd3573a1d67" configVersion="9da66e4150e36c1fec121283d07eb177c05d432f"/>
+		<Metadata name="CommonTemplate.Портал_ТекущаяПосещаемость.Template" id="1ff85762-2e6d-49a1-8523-5fd3573a1d67.0" configVersion="faaba0a471cf3f023ff6ecb55747fc88b457b66b"/>
+		<Metadata name="Configuration.РасширениеСчетчикиПосещаемости" id="39303065-56f3-4dee-a672-f8eae5aaadef" configVersion="95ed7dca677b7d33dea5168d32a050f73eccd136"/>
+		<Metadata name="ExternalDataSource.ОМ_СчетчикиПосещаемости" id="3264fd38-11b1-40a7-b095-e374cb5a59cb" configVersion="5f6b25278c12a6973d9339c8e38bd99bc002ca3a"/>
+		<Metadata name="ExternalDataSource.ОМ_СчетчикиПосещаемости.Table.dbo_CM_CrossZoneEnter" id="443596a3-66d5-47fe-9a59-135a773e9602" configVersion="c63ae17315bfe30237e36eb5d5114208cf3f3d89"/>
+		<Metadata name="ExternalDataSource.ОМ_СчетчикиПосещаемости.Table.dbo_CM_Enter" id="a6aff728-0dea-4f7e-ac76-0a8160057c8e" configVersion="587c697fff0a11ba884556c0614530131d3ecdb9"/>
+		<Metadata name="ExternalDataSource.ОМ_СчетчикиПосещаемости.Table.dbo_CM_StorageEnter" id="7ec85b68-3217-415c-8010-d4d9f3e86f3d" configVersion="439fdf7805db144d4227ac392e047557878e19d8"/>
+		<Metadata name="ExternalDataSource.ОМ_СчетчикиПосещаемости.Table.dbo_CM_Zone" id="60b272cc-de67-4d36-b69c-0beb4f5a7ca1" configVersion="6ebe96d5df976e513989efb006dc40ba9e1b6922"/>
+		<Metadata name="HTTPService.CountVisitors" id="003c4ca1-ef6c-431d-95ef-2e5f2c656568" configVersion="26940db4dec6aae71b00d780225018e16326cd5c">
+			<Metadata name="HTTPService.CountVisitors.URLTemplate.RealTimeAPI.Method.GET" id="1a2c4ade-d0f0-43fa-97ff-cc8ffaca2416"/>
+			<Metadata name="HTTPService.CountVisitors.URLTemplate.RealTimeAPI" id="3fa5ebf4-787d-4374-806f-2a8927c922a7"/>
+		</Metadata>
+		<Metadata name="HTTPService.CountVisitors.Module" id="003c4ca1-ef6c-431d-95ef-2e5f2c656568.0" configVersion="b3c8845a3f7a922317e58b0d3dccc1023e5b4913"/>
+		<Metadata name="Language.Русский" id="dcc075ae-fd98-4173-8892-ae775b6859e4" configVersion="e0d4975c1cc31ec6c17e8c3ef76af0a34d050b16"/>
+		<Metadata name="Subsystem.ПП_Аренда" id="c33dbcf6-65e3-42d1-8aac-654870dec0aa" configVersion="c2bcd43894cee6d01defacfc32bee903aea5021c"/>
+		<Metadata name="Subsystem.ПП_Аренда.CommandInterface" id="c33dbcf6-65e3-42d1-8aac-654870dec0aa.1" configVersion="fdaec039eea90396e8275a4185f01ff2ce9f09af"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
